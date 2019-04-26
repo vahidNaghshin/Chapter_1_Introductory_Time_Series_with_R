@@ -1,7 +1,5 @@
 data_cbe_path<-file.path(getwd(), 'cbe.dat')
 
-print(data_cbe_path)
-
 CBE <- read.table(data_cbe_path, header = T)
 class(CBE)
 Beer.ts <- ts(CBE[, 2], start = 1958, freq = 12)

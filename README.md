@@ -3,6 +3,8 @@ This is the solution to the exercises of chapter 1 of Introductory Time Series w
 
 Time series is analysing a collection of random variables usually ordered in time based on the history data to forecast the future. In the following, The solution of the first chapoter of the book along woth the R implementation are provided.
 
+The solution for chapter 1 problems are given in R file with outputs given as follows:
+
 ![GitHub Logo](/CBE.png)
 Format: ![Alt Text](https://raw.githubusercontent.com/vahidNaghshin/Chapter_1_Introductory_Time_Series_with_R/CBE.png)
 

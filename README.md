@@ -6,10 +6,8 @@ Time series is analysing a collection of random variables usually ordered in tim
 The solution for chapter 1 problems are given in R file with outputs given as follows:
 
 ![GitHub Logo](/CBE.png)
-Format: ![Alt Text](https://raw.githubusercontent.com/vahidNaghshin/Chapter_1_Introductory_Time_Series_with_R/CBE.png)
 
 ![GitHub Logo](/CBE_agg_annual.png)
-Format: ![Alt Text](https://raw.githubusercontent.com/vahidNaghshin/Chapter_1_Introductory_Time_Series_with_R/CBE_agg_annual.png)
 
 ![GitHub Logo](/CBE_box_plot.png)
 Format: ![Alt Text](https://raw.githubusercontent.com/vahidNaghshin/Chapter_1_Introductory_Time_Series_with_R/CBE_box_plot.png)

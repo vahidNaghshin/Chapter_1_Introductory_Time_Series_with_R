@@ -10,31 +10,22 @@ The solution for chapter 1 problems are given in R file with outputs given as fo
 ![GitHub Logo](/CBE_agg_annual.png)
 
 ![GitHub Logo](/CBE_box_plot.png)
-Format: ![Alt Text](https://raw.githubusercontent.com/vahidNaghshin/Chapter_1_Introductory_Time_Series_with_R/CBE_box_plot.png)
 
 
 ![GitHub Logo](/Beer_decomp.png)
-Format: ![Alt Text](https://raw.githubusercontent.com/vahidNaghshin/Chapter_1_Introductory_Time_Series_with_R/Beer_decomp.png)
-
 
 ![GitHub Logo](/Choc_decomp.png)
-Format: ![Alt Text](https://raw.githubusercontent.com/vahidNaghshin/Chapter_1_Introductory_Time_Series_with_R/Choc_decomp.png)
-
 
 ![GitHub Logo](/Beer_trend_seasonal.png)
-Format: ![Alt Text](https://raw.githubusercontent.com/vahidNaghshin/Chapter_1_Introductory_Time_Series_with_R/Beer_trend_seasonal.png)
 
 
 ![GitHub Logo](/Choc_trend_seasonal.png)
-Format: ![Alt Text](https://raw.githubusercontent.com/vahidNaghshin/Chapter_1_Introductory_Time_Series_with_R/Choc_trend_seasonal.png)
 
 
 ![GitHub Logo](/BeerSeasonalAdj.png)
-Format: ![Alt Text](https://raw.githubusercontent.com/vahidNaghshin/Chapter_1_Introductory_Time_Series_with_R/BeerSeasonalAdj.png)
 
 
 ![GitHub Logo](/ChocSeasonalAdj.png)
-Format: ![Alt Text](https://raw.githubusercontent.com/vahidNaghshin/Chapter_1_Introductory_Time_Series_with_R/ChocSeasonalAdj.png)
 
 
 
